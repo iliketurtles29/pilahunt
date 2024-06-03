@@ -29,7 +29,6 @@ pipenv==2023.9.1
 platformdirs==3.10.0
 psycopg2==2.9.9
 python-aalib==0.4
-pywin32==305
 reportlab==4.2.0
 requests==2.32.3
 SQLAlchemy==2.0.30
